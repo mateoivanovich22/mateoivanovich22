@@ -40,7 +40,7 @@
 <br>
 <p>
 <a href="https://github.com/mateoivanovich22/Backend-final-project" target="_blank">
-<img src="https://img.shields.io/badge/ODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://mateo-shop.onrender.com/api/users/register" target="_blank">
     <img src="https://img.shields.io/badge/LINK-blue">
