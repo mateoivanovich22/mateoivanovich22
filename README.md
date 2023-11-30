@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://file-query.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LINK-blue">
+    <img src="https://img.shields.io/badge/LINK_DEMO-blue">
 </a>
 </p>
 <p>Playing with .csv files using <strong>Node JS - Express JS - Handlebars</strong> - Project deployed in render. <strong>FREE ​TO USE🤑.​</strong></p>
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://mateo-shop.onrender.com/api/users/register" target="_blank">
-    <img src="https://img.shields.io/badge/LINK-blue">
+    <img src="https://img.shields.io/badge/LINK_DEMO-blue">
 </a>
 </p>
 <p>Creating a page with all kinds of functionality using <strong>Node JS - Express JS - Handlebars - JWT - Socket.io </strong> - Project deployed in render. </p>
