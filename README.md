@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LINK_DEMO-blue">
 </a>
 </p>
-<p>Creating a page with all kinds of functionality using <strong>Node JS - Express JS - Handlebars - JWT - Socket.io </strong> - Project deployed in render. </p>
+<p>Creating a page with all kinds of functionality using <strong>Node JS - Express JS - Handlebars </strong> - Project deployed in render. </p>
 </div>    
 
 </td>
