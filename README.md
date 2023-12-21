@@ -20,7 +20,7 @@
                <br>
 <h3 align="center">Higen</h3>
 <div align="center">                                       
-<a href="https://github.com/mateoivanovich22/higen" target="_blank"><img src="https://i.imgur.com/PEBlXZz.png" width="400" alt="Higen img"></a>
+<a href="https://github.com/mateoivanovich22/higen" target="_blank"><img src="https://i.imgur.com/WL6kNf4.png" width="400" alt="Higen img"></a>
 <br>
 <p>
 <a href="https://github.com/mateoivanovich22/higen" target="_blank">
