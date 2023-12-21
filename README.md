@@ -15,6 +15,26 @@
 ## Latest Projects
 <table>
 <tr>
+
+<td width="50%">
+               <br>
+<h3 align="center">Higen</h3>
+<div align="center">                                       
+<a href="https://github.com/mateoivanovich22/higen" target="_blank"><img src="https://i.imgur.com/PEBlXZz.png" width="400" alt="Higen img"></a>
+<br>
+<p>
+<a href="https://github.com/mateoivanovich22/higen" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://higen.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/LINK_DEMO-blue">
+</a>
+</p>
+<p>Creating a page with all kinds of functionality using <strong>Node JS - Express JS - Handlebars - JWT - Socket.io </strong> - Project deployed in render. </p>
+</div>    
+
+</td>
+    
 <td width="50%">
 <h3 align="center">File Query</h3>
 <div align="center">
@@ -31,23 +51,6 @@
 </div>
                                                                                       
 </td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Mateo Market</h3>
-<div align="center">                                       
-<a href="https://github.com/mateoivanovich22/Backend-final-project" target="_blank"><img src="https://i.imgur.com/FXTjPXT.png" width="400" alt="Mateo market img"></a>
-<br>
-<p>
-<a href="https://github.com/mateoivanovich22/Backend-final-project" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://mateo-shop.onrender.com/api/users/register" target="_blank">
-    <img src="https://img.shields.io/badge/LINK_DEMO-blue">
-</a>
-</p>
-<p>Creating a page with all kinds of functionality using <strong>Node JS - Express JS - Handlebars - JWT - Socket.io </strong> - Project deployed in render. </p>
-</div>                                                             
 </table>                                                                                 
 </div>
 <br>
