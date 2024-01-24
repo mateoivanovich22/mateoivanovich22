@@ -17,6 +17,23 @@
 <tr>
 
 <td width="50%">
+<h3 align="center">Lavate todo</h3>
+<div align="center">
+<a href="https://github.com/mateoivanovich22/lavateTodo" target="_blank"><img src="https://i.imgur.com/CqoA5ac.png" width="400" alt="File query img"></a>
+<p>
+<a href="https://github.com/mateoivanovich22/lavateTodo" target="_blank">
+    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://lavate-todo.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/LINK_DEMO-blue">
+</a>
+</p>
+<p>Playing with .csv files using <strong>Node JS - Typescript </strong> - Project deployed in render. <strong>FOR PRIVATE USE.​</strong></p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
                <br>
 <h3 align="center">Higen</h3>
 <div align="center">                                       
@@ -34,23 +51,7 @@
 </div>    
 
 </td>
-    
-<td width="50%">
-<h3 align="center">File Query</h3>
-<div align="center">
-<a href="https://github.com/mateoivanovich22/FileQuery" target="_blank"><img src="https://i.imgur.com/4w6RK5L.png" width="400" alt="File query img"></a>
-<p>
-<a href="https://github.com/mateoivanovich22/FileQuery" target="_blank">
-    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://file-query.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LINK_DEMO-blue">
-</a>
-</p>
-<p>Playing with .csv files using <strong>Node JS - Express JS - Handlebars</strong> - Project deployed in render. <strong>FREE ​TO USE🤑.​</strong></p>
-</div>
-                                                                                      
-</td>
+
 </table>                                                                                 
 </div>
 <br>
