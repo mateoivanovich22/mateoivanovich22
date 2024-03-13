@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/LINK_DEMO-blue">
 </a>
 </p>
-<p>Playing with .csv files using <strong>Node JS - Typescript </strong> - Project deployed in render. <strong>FOR PRIVATE USE.​</strong></p>
+<p>Playing using <strong>Node JS - Typescript </strong> - Project deployed in render. <strong>FOR PRIVATE USE.​</strong></p>
 </div>
                                                                                       
 </td>
