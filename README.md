@@ -1,6 +1,11 @@
 <div align="center">
-    <h1 align="center">Hi, im Mateo!👋​</h1>
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+The+Coding+Priest;Future+Software+Engineer">
 </div>
+
+<br>
+Hi there, 👋🏽&nbsp I'm a Software engineer student that offers full-stack JavaScript development and design. I love creating clean, accessible, and easy-to-use digital experiences.
+Feel free to reach out to me!
+</p>
 <img src="https://i.imgur.com/97pBI1X.jpg">
 
 ## About Me
