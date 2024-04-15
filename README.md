@@ -46,18 +46,18 @@ Feel free to reach out to me!
 <tr>
 
 <td width="50%">
-<h3 align="center">Lavate todo</h3>
+<h3 align="center">PocketPenny</h3>
 <div align="center">
-<a href="https://github.com/mateoivanovich22/lavateTodo" target="_blank"><img src="https://i.imgur.com/CqoA5ac.png" width="400" alt="File query img"></a>
+<a href="https://github.com/mateoivanovich22/PocketPenny" target="_blank"><img src="https://i.imgur.com/J85WXCD.png" width="400" alt="Pocketpenny img"></a>
 <p>
-<a href="https://github.com/mateoivanovich22/lavateTodo" target="_blank">
+<a href="https://github.com/mateoivanovich22/PocketPenny" target="_blank">
     <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://lavate-todo.onrender.com" target="_blank">
+<a href="https://pocketpenny.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/LINK_DEMO-blue">
 </a>
 </p>
-<p>Playing using <strong>Node JS - Typescript </strong> - Project deployed in render. <strong>FOR PRIVATE USE.​</strong></p>
+<p>Playing using <strong>Node JS - Typescript </strong> - Project deployed in render. <strong>.​</strong></p>
 </div>
                                                                                       
 </td>
